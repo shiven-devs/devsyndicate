@@ -5,7 +5,7 @@ Next.js 16 (App Router, Turbopack), React 19, Tailwind CSS 4, TypeScript.
 
 ```bash
 npm install
-cp .env.example .env.local   # optional in development — see below
+cp .env.example .env.local  # optional in development — see below
 npm run dev
 ```
 
